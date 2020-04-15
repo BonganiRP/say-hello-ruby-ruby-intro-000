@@ -2,4 +2,3 @@
 def say_hello('Richard')
   print "Hello Richard!"
 end
-
